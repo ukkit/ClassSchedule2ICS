@@ -1,0 +1,5 @@
+.venv/
+*.ics
+*.log
+*.egg-info
+*.egg
